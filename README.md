@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Aprisa 👋
+
+I am an Informatics student focused on developing interactive mobile applications that integrate 3D modeling and Augmented Reality.
 
 <!--
 **aprisaidmamutiara/aprisaidmamutiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
